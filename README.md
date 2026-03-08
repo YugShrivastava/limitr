@@ -1,2 +1,2 @@
 # limitr
-A simple rate-limiter made using go
+A collection of rate-limiters made using different techniques(token bucket, per client, tollbooth) in go
